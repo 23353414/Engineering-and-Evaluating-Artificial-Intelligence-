@@ -30,8 +30,6 @@ Actvity 3 Full Solution/
 ├── embeddings.py            - Text embedding generation
 ├── main.py                  - Main controller
 ├── preprocess.py            - Data preprocessing functions
-├── Implementation_Guide_Design_Choice_1.md - Guide for Chained Multi-Output approach
-└── Implementation_Guide_Design_Choice_2.md - Guide for Hierarchical Modeling approach
 ```
 
 ## Architecture Design
